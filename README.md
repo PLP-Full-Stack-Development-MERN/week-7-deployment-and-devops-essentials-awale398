@@ -1,5 +1,9 @@
 **Week 7: Deployment and DevOps for MERN Applications**
 
+here is the project being live
+
+https://blog-mern-three-wheat.vercel.app/
+
 **Objective:**
 
 - Apply DevOps practices to deploy and manage a MERN stack application.
